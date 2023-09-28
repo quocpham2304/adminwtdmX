@@ -255,8 +255,8 @@ const DanhSachUngVien = () => {
         <>
             <Row>
                 <Breadcrumb>
-                    <Breadcrumb.Item><Link to={'/admin/dottuyendung'} >Trang chủ</Link></Breadcrumb.Item>
-                    <Breadcrumb.Item><Link to={'/admin/ungvien'} >Danh sách ứng viên</Link></Breadcrumb.Item>
+                    <Breadcrumb.Item><Link to={'/adminwtdmX/dottuyendung'} >Trang chủ</Link></Breadcrumb.Item>
+                    <Breadcrumb.Item><Link to={'/adminwtdmX/ungvien'} >Danh sách ứng viên</Link></Breadcrumb.Item>
                 </Breadcrumb>
             </Row>
             <Row>

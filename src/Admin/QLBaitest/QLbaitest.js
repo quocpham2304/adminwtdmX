@@ -145,8 +145,8 @@ const QLBaitest = () => {
     <>
       <Row>
         <Breadcrumb>
-          <Breadcrumb.Item><Link to={'/admin/dottuyendung'} >Trang chủ</Link></Breadcrumb.Item>
-          <Breadcrumb.Item><Link to={'/admin/quan-li-bai-test'} >Danh sách bài test</Link></Breadcrumb.Item>
+          <Breadcrumb.Item><Link to={'/adminwtdmX/dottuyendung'} >Trang chủ</Link></Breadcrumb.Item>
+          <Breadcrumb.Item><Link to={'/adminwtdmX/quan-li-bai-test'} >Danh sách bài test</Link></Breadcrumb.Item>
         </Breadcrumb>
       </Row>
       <Row>
