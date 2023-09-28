@@ -28,7 +28,7 @@ const Login = () => {
           sessionStorage.setItem('isLogin',true)
           setUserName(result.data.data.cbnv.username)
           sessionStorage.setItem('username',result.data.data.cbnv.username)
-          navigate('/admin/dottuyendung')       
+          navigate('/adminwtdmX/dottuyendung')       
         }
       } catch (error) {
         console.log(error.response.data.message);

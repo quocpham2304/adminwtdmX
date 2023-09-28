@@ -121,10 +121,10 @@ const EditDotTuyenDung = () => {
         <>
             <Row>
                 <Breadcrumb>
-                    <Breadcrumb.Item><Link to={'/admin'} >Trang chủ</Link></Breadcrumb.Item>
-                    <Breadcrumb.Item><Link to={'/admin/dottuyendung'} >Danh sách đợt tuyển dụng</Link></Breadcrumb.Item>
-                    <Breadcrumb.Item><Link to={`/admin/dottuyendung/chitiet/${params.idDotTuyenDung}`} >Chi tiết đợt tuyển dụng</Link></Breadcrumb.Item>
-                    <Breadcrumb.Item><Link to={`/admin/dottuyendung/edit/${params.idDotTuyenDung}`} >Chỉnh sửa đợt tuyển dụng</Link></Breadcrumb.Item>
+                    <Breadcrumb.Item><Link to={'/adminwtdmX'} >Trang chủ</Link></Breadcrumb.Item>
+                    <Breadcrumb.Item><Link to={'/adminwtdmX/dottuyendung'} >Danh sách đợt tuyển dụng</Link></Breadcrumb.Item>
+                    <Breadcrumb.Item><Link to={`/adminwtdmX/dottuyendung/chitiet/${params.idDotTuyenDung}`} >Chi tiết đợt tuyển dụng</Link></Breadcrumb.Item>
+                    <Breadcrumb.Item><Link to={`/adminwtdmX/dottuyendung/edit/${params.idDotTuyenDung}`} >Chỉnh sửa đợt tuyển dụng</Link></Breadcrumb.Item>
                 </Breadcrumb>
             </Row>
             <Row>

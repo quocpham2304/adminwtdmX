@@ -51,7 +51,7 @@ export default function Admin() {
     setUserName()
     sessionStorage.removeItem('isLogin')
     sessionStorage.removeItem('username')
-    navigate('/admin/login')
+    navigate('/adminwtdmX/login')
   }
   
   const content = (
@@ -69,7 +69,7 @@ export default function Admin() {
     <Layout>
       <Sider trigger={null} collapsible collapsed={collapsed}>
         <div className="logo" >
-          <Link to="/admin">
+          <Link to="/adminwtdmX">
             <img src={collapsed ? logoa : logo} alt="" />
           </Link>
         </div>
