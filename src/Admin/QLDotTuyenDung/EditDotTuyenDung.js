@@ -60,7 +60,7 @@ const EditDotTuyenDung = () => {
             return
         }
         if (result.data.status == "true") {
-            navigate(`/admin/dottuyendung/chitiet/${params.idDotTuyenDung}`)
+            navigate(`/adminwtdmX/dottuyendung/chitiet/${params.idDotTuyenDung}`)
         } else {
             console.log(result.data);
             message.error(result.data.message);
