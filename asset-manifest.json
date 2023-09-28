@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/adminwtdmX/static/css/main.14e90f67.css",
-    "main.js": "/adminwtdmX/static/js/main.409419c4.js",
+    "main.js": "/adminwtdmX/static/js/main.cb59f869.js",
     "static/js/787.909e063d.chunk.js": "/adminwtdmX/static/js/787.909e063d.chunk.js",
     "static/media/CerebriSans-Regular.svg": "/adminwtdmX/static/media/CerebriSans-Regular.fb3a1fc1db59bba528ef.svg",
     "static/media/CerebriSans-Medium.svg": "/adminwtdmX/static/media/CerebriSans-Medium.a3015a2d9297c3536032.svg",
@@ -43,11 +43,11 @@
     "static/media/united-kingdom.svg": "/adminwtdmX/static/media/united-kingdom.4839cec4896b3141f334.svg",
     "index.html": "/adminwtdmX/index.html",
     "main.14e90f67.css.map": "/adminwtdmX/static/css/main.14e90f67.css.map",
-    "main.409419c4.js.map": "/adminwtdmX/static/js/main.409419c4.js.map",
+    "main.cb59f869.js.map": "/adminwtdmX/static/js/main.cb59f869.js.map",
     "787.909e063d.chunk.js.map": "/adminwtdmX/static/js/787.909e063d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14e90f67.css",
-    "static/js/main.409419c4.js"
+    "static/js/main.cb59f869.js"
   ]
 }
