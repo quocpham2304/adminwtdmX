@@ -20,6 +20,7 @@ import DanhSachDotTuyenDung from "./Admin/QLDotTuyenDung/DanhSachDotTuyenDung";
 import DanhSachUngVien from "./Admin/QLUngVien/DanhSachUngVien";
 import QLBaitest from "./Admin/QLBaitest/QLbaitest";
 import Themmoibaitest from "./Admin/QLBaitest/ThemBaiTest";
+import Test from "./Admin/QLDotTuyenDung/ungVienDotTuyenDung";
 
 const App = () => {
   //test
